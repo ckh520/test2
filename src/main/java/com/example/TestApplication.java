@@ -3,7 +3,7 @@ package com.example;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//dev
+//dev2
 @SpringBootApplication
 public class TestApplication {
 
